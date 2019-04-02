@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Soccer
-subtitle: Best sport ever!
+title: Tản mạn kỳ #2: Tiki
+subtitle: startup tỷ đô la từ nhà kho
 ---
 
 From Wikipedia:
